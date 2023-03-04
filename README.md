@@ -14,13 +14,13 @@ A basic application for providing quizzes created using ReactJS and React Hooks.
 
 1. Get the source code on your pc via git.
 
-```js
+```shell
   git clone https://github.com/muskanmi/quiz-app-react
 ```
 
 2.  Navigate inside the folder through your terminal.
 
-```js
+```shell
   cd quiz-app-react
 ```
 
